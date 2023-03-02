@@ -1,2 +1,2 @@
 # Rescipe-Website
-Rescipe-Website
+RescipeWebsite
